@@ -1,0 +1,2 @@
+# Coursera: Javascript, part 1
+This repository contains solutions for assignments for the Coursera.org course called [Javascript, part 1](https://www.coursera.org/learn/javascript-osnovy-i-funktsii?specialization=razrabotka-interfeysov) (EcmaScript 5) by Moscow Institute of Physics and Technology, Yandex & E-Learning Development Fund.
